@@ -154,6 +154,7 @@ The project automatically generates:
 ```
 .
 ├── mes_poc.py
+├── _raw_smart_meter_readings.csv.gz       #dataset
 ├── outputs/
 │   ├── daily_region_summary.csv
 │   ├── hourly_load_profile.csv
