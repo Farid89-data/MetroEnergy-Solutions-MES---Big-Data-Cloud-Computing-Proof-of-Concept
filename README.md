@@ -163,8 +163,7 @@ The project automatically generates:
 │   ├── chart_daily_consumption_trend.png
 │   ├── chart_hourly_load_profile.png
 │   └── chart_prediction_vs_actual.png
-├── README.md
-└── MES_Big_Data_Cloud_Report.pdf
+└── README.md 
 ```
 
 ---
