@@ -1,0 +1,10 @@
+MES Peak Demand Forecasting Model — Spark MLlib Linear Regression
+=================================================================
+Training rows: 311
+Test rows:     54
+RMSE (kWh):    1.9052
+R^2:           0.9966
+
+Feature coefficients (temperature_c, day_of_week, month, is_weekend, total_daily_kwh):
+[0.003409106583060499,0.0674845924665799,-0.05632999934711373,0.5315601337137383,0.0731079106987265]
+Intercept: -4.0145
